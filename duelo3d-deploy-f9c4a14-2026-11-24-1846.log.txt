@@ -1,0 +1,15 @@
+2026-11-24T21:46:56.726624267Z ==> Cloning from https://github.com/tallesjferreira10-ops/Duelo3D
+2026-11-24T21:46:57.582281513Z ==> Checking out commit f9c4a14a2fc1e43c487a20968348a6d0df7f14bc in branch main
+2026-11-24T21:46:59.068131468Z ==> Using Node.js version 24.22.1 (default)
+2026-11-24T21:46:59.06813917Z ==> Docs on specifying a Node.js version: https://render.com/docs/node-version
+2026-11-24T21:46:59.099889446Z ==> Running build command 'npm install'...
+2026-11-24T21:46:59.452363112Z npm error code ENOENT
+2026-11-24T21:46:59.452566856Z npm error syscall open
+2026-11-24T21:46:59.452600254Z npm error path /opt/render/project/src/package.json
+2026-11-24T21:46:59.452693103Z npm error errno -2
+2026-11-24T21:46:59.452954693Z npm error enoent Could not read package.json: Error: ENOENT: no such file or directory, open '/opt/render/project/src/package.json'
+2026-11-24T21:46:59.453158462Z npm error enoent This is related to npm not being able to find a file.
+2026-11-24T21:46:59.453160202Z npm error enoent
+2026-11-24T21:46:59.454175591Z npm error A complete log of this run can be found in: /opt/render/.cache/_logs/2026-11-24T21_46_59_203Z-debug-0.log
+2026-11-24T21:46:59.498355323Z ==> Build failed 😞
+2026-11-24T21:46:59.498369461Z ==> Common ways to troubleshoot your deploy: https://render.com/docs/troubleshooting-deploys
